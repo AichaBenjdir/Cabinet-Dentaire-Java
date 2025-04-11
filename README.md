@@ -1,10 +1,7 @@
 ## Cabinet Dentaire Java
  Cabinet Dentaire Java est une application Java développée pour gérer les opérations d’un cabinet dentaire. Ce projet a été réalisé dans le cadre de ma formation avec 10000 Codeurs, afin d'appliquer les concepts des classes en Java.
 
-## 🔨 Technologies utilisées :
-Langage : Java
 
-Concepts : Programmation Orientée Objet (POO), Collections Java (Listes, Maps, etc.)
 ## 📑 Description des classes :
 Patient : Contient les informations d'un patient (nom, prénom, adresse, téléphone, date de naissance).
 
